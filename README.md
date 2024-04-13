@@ -1,7 +1,5 @@
 # Multi-Agent Architecture for Problem Solving
 
-![Multi-Agent Architecture](MAA.png)
-
 The Multi-Agent Architecture for Problem Solving is a sophisticated system that employs a systematic approach to tackle complex problems by integrating specialized modules called agents. This architecture ensures that every aspect of a given problem is addressed through the collaboration of these agents, offering comprehensive and effective solutions.
 
 ## Key Features
@@ -13,7 +11,7 @@ The Multi-Agent Architecture for Problem Solving is a sophisticated system that 
 
 ## System Workflow
 
-![System Workflow Diagram](workflow.png)
+![System workflow of Multi-Agent Architecture](MAA.png)
 
 1. **Problem Definer Agent**:
    - Clarifies the user's objectives through iterative questioning.
