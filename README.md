@@ -1,6 +1,6 @@
-# Multi-Agent Architecture for Problem Solving
+# Multi-Agent Architecture 
 
-Welcome to the Multi-Agent Architecture repository. This project employs a systematic approach to problem-solving, integrating specialized modules for effective task handling. The architecture ensures that every aspect of a given problem is meticulously addressed, offering comprehensive solutions that are both efficient and effective.
+This project employs a systematic approach to problem-solving, integrating specialized modules for effective task handling. This architecture aims that every aspect of a given problem is addressed through LLMs to offer comprehensive solutions.
 
 ![Multi-Agent Architecture](MAA.png)
 
