@@ -62,7 +62,7 @@ The Multi-Agent Architecture for Problem Solving can be applied to a wide range 
 
 To get started with the Multi-Agent Architecture for Problem Solving, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/multi-agent-architecture.git`
+1. Clone the repository: `git clone https://github.com/sanskar9999/Multi-Agent-Architecture.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the main script: `python main.py`
 4. Input your problem statement and let the agents work their magic!
