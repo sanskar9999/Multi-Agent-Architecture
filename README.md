@@ -68,9 +68,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 We are continuously working on enhancing the Multi-Agent Architecture for Problem Solving. Some planned future enhancements include:
 
-- Integrating machine learning capabilities to enable agents to learn and adapt based on past problem-solving experiences.
 - Developing a user-friendly interface for easier interaction with the system and visualization of the problem-solving process.
-- Expanding the library of specialized agents to cover a wider range of problem domains and tasks.
 - Optimizing the communication protocols between agents to further improve efficiency and reduce latency.
-
+- Expanding the library of specialized agents to cover a wider range of problem domains and tasks.
+- Integrating machine learning capabilities to enable agents to learn and adapt based on past problem-solving experiences.
 ---
